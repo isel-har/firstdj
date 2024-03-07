@@ -1,0 +1,2 @@
+# firstdj
+testing  Django
